@@ -42,6 +42,7 @@ Arquitectura modular separando localizadores e interacciones (UrbanRoutesPage), 
 Uso de esperas explícitas (WebDriverWait) y manejo de foco (Keys.TAB) para garantizar estabilidad en la ejecución.
 
 2. 🛒 Urban Grocers — API Test Automation
+   https://github.com/MarthaR2026/qa-project-Urban-Grocers-app-es
 
 Suite de pruebas automatizadas para validar las reglas de negocio y límites de entrada en el endpoint de creación de kits de usuario (POST /api/v1/kits).
 
