@@ -27,6 +27,7 @@ Idiomas: Español (Nativo) | Inglés (Intermedio B1 — lectura técnica, docume
 🚀 Proyectos Destacados de Automatización
 
 1. 🚕 Urban Routes — UI Test Automation
+   https://github.com/MarthaR2026/qa-project-Urban-Routes-es
 
 Automatización de pruebas End-to-End (E2E) para el flujo completo de solicitud de taxi en la aplicación web Urban Routes.
 
